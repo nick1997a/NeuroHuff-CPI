@@ -21,8 +21,8 @@ We provides three datasets, namely BindingDB, Celegans and Humans, which roughly
 
 # Run:
 We provide an example of how to reproduce the experiments described in the paper. Although it runs for 60 epochs, we find 30 epochs is way enough and all the results in paper are run around 50 epochs. 
-You can also directly run `python train.py or python predict.py ` to run the experiments and get the results.
+You can also directly run `python main.py or python predict.py ` to run the experiments and get the results.
 
 
 ## Contact 
-nick@s.upc.edu.cn
+Please feel free to contact me (nick@s.upc.edu.cn), if there is any questions in general or deloying the codes.
