@@ -7,7 +7,9 @@ To run the code, please firstly install the python libararies/enviroment by the 
 Dependencies:
 - python >= 3.6
 - tensorflow 2.4
-- numpy
+- numpy =1.16.2
+- pandas==1.1.5
+- Keras-Preprocessing==1.1.2
 - sklearn
 
 # Three datasets 
